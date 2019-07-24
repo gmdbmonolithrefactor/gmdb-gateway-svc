@@ -1,0 +1,1 @@
+# gmdb-gateway-svc
